@@ -1,0 +1,78 @@
+html {
+    padding: 0;
+    margin: 0;
+    width: auto;
+}
+
+#cadre {
+    position: relative;
+    background-color: #f4f4f4;
+}
+
+#Menutop {
+    width: 100%;
+    height: 90px;
+    max-height: 90px;
+    background-color: #e60012;
+    border: 1px solid #bf0010;
+}
+
+#Menuleft {
+    width: 110px;
+    height: 900px;
+    background-color: #e60012;
+    position: relative;
+    bottom: 16px;
+
+}
+
+li {
+    border: 1px solid #bf0010;
+    width: 109px;
+    list-style-type: none;
+    height: 110.5px;
+    position: relative;
+    right: 40px;
+    text-align: center;
+    font-size: x-large;
+}
+
+i {
+    padding-top: 30px;
+    color: #ffffff;
+}
+
+span {
+    font-size: small;
+    color: #ffffff;
+    vertical-align: bottom;
+}
+
+#nintendo {
+    border: 5px solid #ffffff;
+    width: 150px;
+    height: 30px;
+    text-align: center;
+    border-radius: 20px;
+    color: #ffffff;
+    margin-top: 35px;
+    margin-left: 25px;
+}
+
+#ninecrit {
+    font-size: 25px;
+    font-family: 'Russo One', sans-serif;
+}
+
+sup {
+    font-size: small;
+}
+
+.listop {
+    display: inline;
+    left: 80%;
+    bottom: 90px;
+    margin-left: 10px;
+    color: #ffffff;
+    margin-right: 30px;
+}
